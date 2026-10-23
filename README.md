@@ -1,17 +1,88 @@
-# weather_app
+# 🌤️ Weather App - Flutter
 
-A new Flutter project.
+A modern Flutter Weather App that provides current weather information, hourly forecasts, and a 5-day forecast using the Open-Meteo API.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔍 Search weather by city
+- 🌡️ Current temperature
+- 💧 Humidity information
+- 💨 Wind speed
+- 🌧️ Rain probability
+- 🕐 Hourly weather forecast
+- 📅 5-day weather forecast
+- 🌅 Sunrise and sunset information
+- 🔄 Refresh weather data
+- 🌙 Dark mode support
+- 🌡️ Celsius / Fahrenheit support
+- 📱 Responsive Flutter UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- REST API
+- HTTP
+- Open-Meteo API
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+```text
+lib/
+├── main.dart
+├── models/
+│   └── weather_model.dart
+├── services/
+│   └── weather_service.dart
+└── screens/
+    └── weather_home_page.dart
+```
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Hariompatidar802-cell/weather-app-flutter.git
+```
+
+### 2. Open the project
+
+```bash
+cd weather-app-flutter
+```
+
+### 3. Install dependencies
+
+```bash
+flutter pub get
+```
+
+### 4. Run the app
+
+```bash
+flutter run
+```
+
+## 🌐 API
+
+This project uses the Open-Meteo API for weather and geocoding data.
+
+No API key is required for this learning project.
+
+## 📸 Screenshots
+
+Screenshots of the application will be added here.
+
+## 👨‍💻 Developer
+
+**Hariom Patidar**
+
+BCA 1st Year | Flutter Developer
+
+GitHub: `Hariompatidar802-cell`
+
+## 📌 Project Purpose
+
+This project was created to practice Flutter development, REST API integration, JSON data handling, asynchronous programming, UI design, and project structure.
