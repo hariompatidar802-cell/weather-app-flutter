@@ -71,10 +71,6 @@ This project uses the Open-Meteo API for weather and geocoding data.
 
 No API key is required for this learning project.
 
-## 📸 Screenshots
-
-Screenshots of the application will be added here.
-
 ## 👨‍💻 Developer
 
 **Hariom Patidar**
